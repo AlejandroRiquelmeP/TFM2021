@@ -1,0 +1,1 @@
+Este repositorio contiene el pipeline escrito en Nextflow a partir del cual se obtienen potenciales lncRNAs codificantes de micropéptidos, su fichero de configuración y todos los archivos generados de las 6 muestras biológicas con las que se ha validado.
